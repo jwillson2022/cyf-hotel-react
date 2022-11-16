@@ -55,4 +55,6 @@ tr {
 
 .card {
   width: 18rem;
+  padding: 20px 10px;
+  background-color: aqua;
 }
