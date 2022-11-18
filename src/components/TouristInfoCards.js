@@ -14,7 +14,11 @@ function TouristInfoCards() {
           River Clyde ,20 miles (32 km) from that river’s mouth on the western,
           or Atlantic, coast. Glasgow is Scotland’s largest city,{" "}
         </p>
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://peoplemakeglasgow.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button>More Info</button>
         </a>
       </div>
@@ -29,7 +33,11 @@ function TouristInfoCards() {
           city, including the historic core, is in the historic county of
           Lancashire{" "}
         </p>
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://visitmanchester.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button>More Info</button>
         </a>
       </div>
@@ -43,7 +51,11 @@ function TouristInfoCards() {
           tourism because London is home to one of the oldest-standing
           monarchies in the western hemisphere.
         </p>
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://visitlondon.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button>More Info</button>
         </a>
       </div>

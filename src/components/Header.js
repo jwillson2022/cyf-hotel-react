@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./icon.png";
+import logo from "./images/icon.png";
 function header() {
   return (
     <div className="main-div">
