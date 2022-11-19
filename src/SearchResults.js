@@ -3,7 +3,7 @@ import moment from "moment";
 
 const SearchResults = ({ results }) => {
   return (
-    <div>
+    <div className="table-div">
       <table className="table">
         <thead className="thead-dark">
           <tr>
@@ -18,7 +18,7 @@ const SearchResults = ({ results }) => {
             <th scope="col">nights</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody className="">
           {results.map((person, index) => {
             return (
               <tr>
